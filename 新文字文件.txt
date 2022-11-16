@@ -1,0 +1,20 @@
+create vue =>
+npm init vue@latest (npm init vite@latest)
+npm install
+
+run vue=>  npm run dev
+
+<script set></script>
+
+<template></template>
+
+<style></style>
+
+install vue-router =>  (https://blog.csdn.net/jason_renyu/article/details/123261823)
+npm install vue-router -S
+
+Element Plus =>
+https://element-plus.org/zh-CN/guide/quickstart.html
+
+vite.config.js 新增 base:'./' 導航到文件位置
+打包 => npm run build
